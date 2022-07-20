@@ -3,65 +3,65 @@
     {
       "Nombre": "Top Gun : Maverick",
       "imagen": "https://th.bing.com/th/id/OIP.2HwmAarFqARxK8CD_6hrEQHaLH?pid=ImgDet&rs=1",
-      "genero": "Accion, Drama",
+      "genero": {"Accion, Drama"},
       "sipnosis": "Despues de mas de treinta años de servicio como uno de los mejores aviadores de la Armada, Pete Mitchell esta donde pertenece, forzando los limites como valiente piloto de pruebas y esquivando el avance de rango que lo dejarla en tierra.",
       "director": "Josep Kosinski",
-      "reparto principal": "Jim Cash, Jack Epps jr, Peter Craig"
+      "reparto principal": {"Jim Cash, Jack Epps jr, Peter Craig"}
     },
     {
       "Nombre": "Sonic 2: La pelicula",
       "imagen": "https://th.bing.com/th/id/OIP.gBQjh6VSJ3xyppFoj6STWAHaJQ?pid=ImgDet&rs=1",
-      "genero": "Accion, Drama, Comedia",
+      "genero": {"Accion, Drama, Comedia"},
       "sipnosis": "Cuando el maniaco Dr. Robotnik regresa a la Tierra con un nuevo aliado, Knuckles the Echidna, Sonic y su nuevo amigo Tails son todo lo que se interpone en su camino.",
       "director": "Jeff Fowler",
-      "reparto principal": "James Marsden, Jim Carrey, Ben Schwartz"
+      "reparto principal": {"James Marsden, Jim Carrey, Ben Schwartz"}
     },
     {
       "Nombre": "Black Phone",
       "imagen": "https://zamunda-net.com/wp-content/uploads/2021/06/the-black-phone-2022.jpg",
-      "genero": "Terror, Suspense",
+      "genero": {"Terror, Suspense"},
       "sipnosis": "Despues de ser secuestrado por un asesino de niños y encerrado en un sotano a prueba de sonido, un chico de trece años comienza a recibir llamadas desde un telefono desconectado de las victimas anteriores del asesino.",
       "director": "Scott Derrickson",
-      "reparto principal": "Mason Thames, Madeleine McGraw, Etrhan Hawk"
+      "reparto principal": "[Mason Thames, Madeleine McGraw, Etrhan Hawk]"
     },
     {
       "Nombre": "Jurassic World: Dominion",
       "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a58a7719-0dcf-4e0b-b7bb-d2b725dbbb8e/ddzg1vb-1ad963a3-6c30-44c3-9b93-fbc128813b90.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvYTU4YTc3MTktMGRjZi00ZTBiLWI3YmItZDJiNzI1ZGJiYjhlXC9kZHpnMXZiLTFhZDk2M2EzLTZjMzAtNDRjMy05YjkzLWZiYzEyODgxM2I5MC5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.XxjgrObzBC10VmXAXBv5An71zjfFfq1mQZyAycTyNL8",
-      "genero": " Accion, aventura, Ciencia ficcion",
+      "genero": {"Accion, aventura, Ciencia ficcion"},
       "sipnosis": "",
       "director": "Colin Trevorrow",
-      "reparto principal": "Chris Pratt, Bryce Howard, Laura Dern"
+      "reparto principal": {"Chris Pratt, Bryce Howard, Laura Dern"}
     },
     {
       "Nombre": "Dr Strange en el multiverso de la locura",
       "imagen": "https://i.redd.it/mra7834mplf51.jpg",
-      "genero": "Accion, Aventura, Fantasia",
+      "genero": {"Accion, Aventura, Fantasia"},
       "sipnosis": "Secuela de la pelicula de Marvel del 2016",
       "director": "Sam Raimi",
-      "reparto principal": "Benedict Cumberbath, Elizabeth Olsen"
+      "reparto principal": {"Benedict Cumberbath, Elizabeth Olsen"}
     },
     {
       "Nombre": "Dog: Un viaje salvaje",
       "imagen": "https://i0.wp.com/laparadojadelcuervo.com/wp-content/uploads/2022/04/2430735-y5MypF.jpeg?ssl=1",
-      "genero": "Comedia, Drama",
+      "genero": {"Comedia, Drama"},
       "sipnosis": "Dos ex miembros de los Rangers del ejercito se emparejan involuntariamente en el viaje de su vida. Briggs y Lulu, una belga del Malinois, corren a lo largo de la costa del Pacifico para llegar a tiempo al funeral de un compa�ero soldado.",
       "director": "Reid Carolin",
-      "reparto principal": "Channing Tatun, Ryder McLaughlin, Aavi Haas"
+      "reparto principal": {"Channing Tatun, Ryder McLaughlin, Aavi Haas"}
     },
     {
       "Nombre": "Bob Esponja: Un heroe fuera del agua",
       "imagen": "https://i.pinimg.com/originals/03/72/2c/03722c82b0d0526d23f85df7bca513f4.jpg",
-      "genero": "Comedia, Animacion, Aventura",
+      "genero": {"Comedia, Animacion, Aventura"},
       "sipnosis": "Cuando un diabolico pirata roba la formula secreta de la cangreburger, Bob Esponja y su nemesis Plankton deben formar equipo para recuperarla.",
       "director": "Paul Tibbitt",
-      "reparto principal": "Tom Kenny Antonio Banderas"
+      "reparto principal": {"Tom Kenny Antonio Banderas"}
     },
     {
       "Nombre": "La era del hielo",
       "imagen": "https://1.bp.blogspot.com/-R5SDB__VVVs/Xua1pxlnkTI/AAAAAAAAAx8/rkUc8YkgM_M7cfy0fXJ7lZFLoV-GZPnKgCK4BGAsYHg/s850/19014748.jpg",
-      "genero": "Comedia, Animacion, Aventura",
+      "genero": {"Comedia, Animacion, Aventura"},
       "sipnosis": "En la Edad de Hielo, un tigre dientes de sable, un perezoso y un mamut lanudo encuentran a un bebe humano perdido y tratan de devolverlo a su tribu.",
       "director": "Chris Wegde",
-      "reparto principal": "Denis leary, John Leguizamo"
+      "reparto principal": {"Denis leary, John Leguizamo"}
     }
   ]
